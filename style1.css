@@ -1,0 +1,64 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.cnt{
+    background-color: #eced10;
+    height: 100px;
+    width: 1520px;
+    border: solid;
+    position: fixed;
+}
+.cnt h1{
+    color: black;
+    margin-left: 35px;
+}
+.cnt a{
+    float: left;
+    margin: 20px 120px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: blue;
+}
+.cnt a:hover{
+    text-decoration: underline;
+}
+
+
+.pic{
+    background-image: url(assets/dhoni.png);
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+.pic h1{
+    font-size: 40px;
+    margin-left: 20px;
+}
+.pic h3{
+    margin-left: 15px;
+    font-size: 20px;
+}
+.pic h5{
+    font-size: 20px;
+}
+.pic p{
+    color: #04e4c5;
+    font-size: 20px;
+    word-spacing: 18px;
+    font-style: normal;
+}
+
+.ftr h3{
+    background-color: #bfda61;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 10px;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 0px;
+}
+
